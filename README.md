@@ -1,1 +1,1 @@
-# images-and-RNAseq-data_infering-Gene-regulatory-network
+# Combine-Gene-Images-And-RNA-seq-Data_For-Infering-GRN
