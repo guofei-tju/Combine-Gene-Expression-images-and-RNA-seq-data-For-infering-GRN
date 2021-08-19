@@ -1,1 +1,1 @@
-# Combine-Gene-Expression-images-and-RNA-seq-data-For-infering-GRN
+# images-and-RNAseq-data_infering-Gene-regulatory-network
